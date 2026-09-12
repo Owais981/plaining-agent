@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/auth.tsx","./src/main.tsx","./src/api/client.ts","./src/pages/crew.tsx","./src/pages/dashboard.tsx","./src/pages/equipment.tsx","./src/pages/login.tsx","./src/pages/planview.tsx","./src/pages/planningchat.tsx","./src/pages/projectdetail.tsx","./src/pages/projects.tsx","./src/types/index.ts"],"version":"5.9.3"}

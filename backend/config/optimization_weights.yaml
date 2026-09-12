@@ -1,0 +1,13 @@
+weights:
+  labour: 1.0
+  overtime: 1.8
+  travel: 1.2
+  equipment: 1.0
+  accommodation: 1.0
+  imbalance: 0.3
+  makespan: 0.5
+
+solver:
+  max_time_seconds: 120
+  num_workers: 8
+  relative_gap_limit: 0.02
